@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+playwright
+transformers
+torch
+python-dotenv
+beautifulsoup4
+pydantic
